@@ -27,9 +27,10 @@ return
 ~!~+~^m::
 ~!~+~^Left::
 Run fancywm.exe --action MoveFocusLeft
-~!~+~^n::
-Run fancywm.exe --action MoveFocusDown
 return
+~!~+~^n::
+~!~+~^Down::
+Run fancywm.exe --action MoveFocusDown
 return
 ~!~+~^e::
 ~!~+~^Up::
